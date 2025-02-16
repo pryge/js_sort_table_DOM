@@ -1,7 +1,5 @@
 'use strict';
 
-'use strict';
-
 document.addEventListener('DOMContentLoaded', function () {
   const headers = document.querySelectorAll('thead th');
   const tbody = document.querySelector('tbody');
